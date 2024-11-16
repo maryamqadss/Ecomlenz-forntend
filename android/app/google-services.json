@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054623071585",
+    "project_id": "ecomlenz-1bb68",
+    "storage_bucket": "ecomlenz-1bb68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054623071585:android:57f9863bf51b1d537e5920",
+        "android_client_info": {
+          "package_name": "com.ecomlenz.ecomlenz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUS-kYTl0GfEOWJ5eL6R9j3e_4evT0X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
