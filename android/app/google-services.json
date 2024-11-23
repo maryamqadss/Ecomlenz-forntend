@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "896934377892",
+    "firebase_url": "https://nxbvotingapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nxbvotingapp",
+    "storage_bucket": "nxbvotingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896934377892:android:8ec741dd42a23c59362931",
+        "android_client_info": {
+          "package_name": "com.berriesecomstore.berriesecomstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-RzVv2zKUTMYulvb3LIpki7zyJF1Ur7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896934377892:android:e779f8e73cba6b4b362931",
+        "android_client_info": {
+          "package_name": "com.myexom.myecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-RzVv2zKUTMYulvb3LIpki7zyJF1Ur7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896934377892:android:f9978c8f10c15102362931",
+        "android_client_info": {
+          "package_name": "com.votingapp.voting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-RzVv2zKUTMYulvb3LIpki7zyJF1Ur7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
